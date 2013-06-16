@@ -1,0 +1,5 @@
+I:\Visual Studio Projects\GuidDuplicateTester\GuidDuplicateTester\obj\Debug\GuidDuplicateTester.csprojResolveAssemblyReference.cache
+I:\Visual Studio Projects\GuidDuplicateTester\GuidDuplicateTester\bin\Debug\GuidDuplicateTester.exe
+I:\Visual Studio Projects\GuidDuplicateTester\GuidDuplicateTester\bin\Debug\GuidDuplicateTester.pdb
+I:\Visual Studio Projects\GuidDuplicateTester\GuidDuplicateTester\obj\Debug\GuidDuplicateTester.exe
+I:\Visual Studio Projects\GuidDuplicateTester\GuidDuplicateTester\obj\Debug\GuidDuplicateTester.pdb
